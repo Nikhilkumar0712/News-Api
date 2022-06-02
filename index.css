@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  
+}
+nav{
+    background-color: rgb(241, 229, 229);
+    height: 40px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.logo h2{
+    padding: 0 10px;
+    color: rgb(243, 36, 36);
+}
+.menu a{
+    text-decoration: none;
+    padding: 0 10px;
+    color: rgb(250, 25, 25);
+}
+.menu input{
+    width: 100px;
+}
+
+.menu b{
+    color: rgb(252, 47, 47);
+    padding: 0 4px;
+}
+  .container {
+    padding: 2px 16px;
+  }
+  img{
+    width: 500px;
+    height: 250px;
+  }
+  h4{
+    color: red;
+  }
