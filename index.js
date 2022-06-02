@@ -1,7 +1,7 @@
 
 let news = document.getElementById("news")
 const xhr = new XMLHttpRequest()
-xhr.open("GET", 'https://newsapi.org/v2/top-headlines?sources=bbc-news&apiKey=2c7761913bed4cabb16cca0976fbaac2', true)
+xhr.open("GET", 'text.json', true)
 xhr.onload = function () {
     if (this.status === 200) {
         let json = JSON.parse(this.responseText);

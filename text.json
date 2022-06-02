@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Queen’s Platinum Jubilee: Trooping the Colour to begin celebrations",
+    "description": "The Queen's Birthday Parade will kick off four days of celebrating the monarch's 70-year reign.",
+    "url": "http://www.bbc.co.uk/news/live/uk-61516564",
+    "urlToImage": "https://m.files.bbci.co.uk/modules/bbc-morph-news-waf-page-meta/5.2.0/bbc_news_logo.png",
+    "publishedAt": "2022-06-02T06:07:24.9486456Z",
+    "content": "Trooping the Colour is an annual military parade that marks the Queens official birthday - which this year falls on 11 June (her actual birthday is 21 April).\r\nThis is a centuries-old tradition which… [+973 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC Sport",
+    "title": "Ukraine stun Scots to set up Wales play-off final",
+    "description": "A heroic Ukraine rouse a performance dripping in spirit and courage to stun Scotland in an historic World Cup play-off semi-final.",
+    "url": "http://www.bbc.co.uk/sport/football/60775090",
+    "urlToImage": "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/169F4/production/_125006629_16763023f94ad30b02e72cac503a30db0b64f0b3.jpg",
+    "publishedAt": "2022-06-02T05:52:26.3690076Z",
+    "content": "Roman Yaremchuk's header just after the break gave Ukraine a two-goal lead and left Scotland with too much to do\r\nA heroic Ukraine roused a performance of spirit, endeavour and courage to stun Scotla… [+10544 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "The moment an earthquake hits Chinese classroom",
+    "description": "The quake left at least four dead and 14 others injured when it hit south-western China.",
+    "url": "http://www.bbc.co.uk/news/world-asia-china-61670658",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/677A/production/_125009462_p0cbltcy.jpg",
+    "publishedAt": "2022-06-02T05:52:19.5254419Z",
+    "content": "Pictures released by Chinese state broadcaster CCTV captured the moment a 6.1-magnitude earthquake hit a Chinese school in the southwestern province of Sichuan. \r\nDozens of panicked schoolchildren we… [+496 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Depp-Heard trial: Jury sides mostly with Depp in defamation case",
+    "description": "Jurors award Mr Depp $15m in compensatory and punitive damages, but also award Ms Heard $2m.",
+    "url": "http://www.bbc.co.uk/news/world-us-canada-61668780",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/12926/production/_125007067_tv076335814.jpg",
+    "publishedAt": "2022-06-02T01:37:20.4013741Z",
+    "content": "Media caption, Watch: Depp v Heard defamation case concludes in court\r\nA US jury has found Amber Heard defamed ex-husband Johnny Depp with an article in which she claimed she was a victim of domestic… [+4697 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Oklahoma hospital shooting: Four dead and multiple injured",
+    "description": "Police say the suspected gunman is among those to have died following the attack in Tulsa.",
+    "url": "http://www.bbc.co.uk/news/world-us-canada-61669873",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/983A/production/_125007983_tv076447287.jpg",
+    "publishedAt": "2022-06-02T00:07:21.3533737Z",
+    "content": "Four people have died in a shooting spree at a hospital in Tulsa, Oklahoma, police say.\r\nLaw enforcement officials confirmed that the suspected shooter was among the dead.\r\nOfficers said they were st… [+179 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Texas school shooting victim's parents mourn 'best friend'",
+    "description": "The parents of Alithia Ramirez say they want the world to remember their daughter through her art.",
+    "url": "http://www.bbc.co.uk/news/world-us-canada-61669234",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/11FC6/production/_125007637_p0cbl2cx.jpg",
+    "publishedAt": "2022-06-01T23:37:19.6195003Z",
+    "content": "Its been a week since 10-year-old Alithia Ramirez was shot and killed when a gunman opened fire at her primary school in Uvalde, Texas. \r\nHer parents say they want the world to remember their daughte… [+180 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "The moment verdict was read to 'heartbroken' Heard",
+    "description": "Johnny Depp has won his defamation case against his ex-wife, Amber Heard.",
+    "url": "http://www.bbc.co.uk/news/entertainment-arts-61667254",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/E772/production/_125005295_p0cbl1m7.jpg",
+    "publishedAt": "2022-06-01T23:22:16.2757908Z",
+    "content": "Johnny Depp's defamation court case against his ex-wife, Amber Heard, has concluded after six weeks, with the jury awarding the actor $10m (£8m) in compensatory damages. He was also awarded $5m in pu… [+185 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Sheryl Sandberg to leave Facebook after 14 years",
+    "description": "Her departure comes as the social media company faces challenges, including a slowdown in ad sales.",
+    "url": "http://www.bbc.co.uk/news/business-61666340",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1778C/production/_125004169_whatsubject.jpg",
+    "publishedAt": "2022-06-01T20:22:18.4633427Z",
+    "content": "Image source, Getty Images\r\nSheryl Sandberg, the chief operating officer of Facebook's parent company Meta, has announced that she is leaving the business after 14 years.\r\nMs Sandberg announced her d… [+819 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Amber Heard and Johnny Depp's 'Trial by TikTok'",
+    "description": "A jury is due to return a verdict, but a parallel case in the court of public opinion continues.",
+    "url": "http://www.bbc.co.uk/news/world-us-canada-61649522",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/131E5/production/_124990387_gettyimages-492267182.jpg",
+    "publishedAt": "2022-06-01T18:07:25.274799Z",
+    "content": "By David SillitoMedia and Arts Correspondent\r\nImage source, Getty Images\r\nImage caption, Amber Heard and Johnny Depp at an event together in 2015\r\n\"It wasn't meant to be a viral video. I was, like, i… [+9315 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Ukraine war: US to send heavier rockets in latest aid package",
+    "description": "The new weapons are part of a $700m (£556m) aid package US officials said would be unveiled on Wednesday.",
+    "url": "http://www.bbc.co.uk/news/world-us-canada-61655577",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3547/production/_124993631_gettyimages-1240427129.jpg",
+    "publishedAt": "2022-06-01T04:22:22.3287368Z",
+    "content": "By Leo SandsBBC News\r\nImage source, Getty Images\r\nImage caption, A White House official said the weapons would include medium-range High Mobility Advanced Rocket System (HIMARS)\r\nThe US will send Ukr… [+3677 chars]"
+    }
+    ]
+    }
